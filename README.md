@@ -1,3 +1,5 @@
+#This marks the beginning of the git ReadMe file- Not sure what to include in here yet!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
